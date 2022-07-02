@@ -14,9 +14,13 @@ The data was compiled from the years 2017 and 2018 and used to determine whether
 
 In 2017, all stocks but one perfomed well (had a postive return). SEDG and DQ performed the best at nearly 200% returns. TERP was the only stock that had a negative return for the year.
 
+<img width="279" alt="All_Stocks_2017" src="https://user-images.githubusercontent.com/106691255/176981875-69a01292-acc6-4c81-a96b-be3c04ec03cf.png">
+
 ### Analysis of Stocks in 2018
 
 In 2018, however, there was a large difference in the performance of the stocks analyzed. ENPH and RUN were the only two stocks that had a positive return for the year. ENPH had performed well the previous year (129.52% return). RUN also had a postive return in 2017, however it was not as drastic (at only 5.55%). All other stocks in 2018 had a negative return.
+
+<img width="278" alt="All_Stocks_2018" src="https://user-images.githubusercontent.com/106691255/176981884-f550a99c-4a46-454f-ab0d-c0f1be0a7ea1.png">
 
 ### Challenges and Difficulties Encountered
 
