@@ -1,4 +1,6 @@
-# stock-analysis
-Analysis of green energy stock options
+# Stock_Analysis
 
-I have been on working vacation on NYC this week and have not been able to complete all assignments. I plan to come back and re-submit this once I return home and have the time to really focus on the work. Sorry for the delay.
+## Overview of Project:
+
+Data on the performance of the stocks of green energy companies was analyized using VBA and excel. The data was compiled from the years 2017 and 2018 and used to determine whether each company was worth investing in.
+
