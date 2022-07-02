@@ -16,6 +16,12 @@ The data was compiled from the years 2017 and 2018 and used to determine whether
 
 ### Challenges and Difficulties Encountered
 
+- Errors with VBA Code
+    * Spelling and syntax errors were the most common for me in this analysis. Luckily, Excel prompts you to fix individual lines when an error occurs, making it much easier to fix the mistake.
+  
+- Limitations of the Data Set:
+    * This data is from 2017/2018, making it almost obsolete. The market has changed so much in the last 4/5 years. Even though it is important to know the long term trends when investing, it is even more imperative to see how these companies are performing in current times. A company that did will in 2017 and 2018 could be tanking or even filing for bankrupcy today. On the other hand, a company that was not faring well five years ago may be on the rise today.
+
 ## Results
 
 ## Summary
