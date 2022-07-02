@@ -38,4 +38,24 @@ Based off of the results of the analysis of all osberved 'Green Energy' stocks i
 
 ### Advantages and Disadvantages of Refactoring Code
 
+Refactoring the coded allowed me to insoect my previous draft in order to find ways to condense, simplify, and improve my code. It also increased the speed at which the sub ran, but not by much. The time it took to re-write the code was much longer than the time it saved in processing. It would have been much more advantageous to refactor the code were I attempting to analyize a much larger data set (an exponentially larger number of tickers to search for). 
+
 ### Advantages and Disadvantages of the Original and Refactored VBA Script
+
+The original code was beneficial because it allowed me to think through each component of the analysis piece by piece. It did, however, have some additional, unnecessary information which I was able to condense in the refactoring process.
+
+Again, the refactoring helped the program run a bit quicker, but not overwhelmingly so. Overall, the original draft of code was fine and would have worked well in this situation.
+
+The run times of the original code:
+
+<img width="269" alt="VBA_Challenge_2017_Original" src="https://user-images.githubusercontent.com/106691255/176982246-754b4f31-672d-45a6-bfd3-fa9bcccc238f.png">
+
+<img width="269" alt="VBA_Challenge_2018_Original" src="https://user-images.githubusercontent.com/106691255/176982252-ba24244c-cfa5-4669-ba2c-ed9b5ddc2a24.png">
+
+Run times of the refactored code:
+
+<img width="273" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/106691255/176982208-fd0f14d0-1582-49f2-ad70-43d98cb45930.png">
+
+<img width="275" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/106691255/176982203-9086841a-bb6a-47ed-be08-cecf55e9cbbd.png">
+
+
